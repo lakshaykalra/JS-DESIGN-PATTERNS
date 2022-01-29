@@ -1,0 +1,24 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "JS-DESIGN-PATTERNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaykalra/JS-DESIGN-PATTERNS.git"
+  },
+  "keywords": [
+    "design-patterns",
+    "javascript",
+    "design"
+  ],
+  "author": "Lakshay Kalra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshaykalra/JS-DESIGN-PATTERNS/issues"
+  },
+  "homepage": "https://github.com/lakshaykalra/JS-DESIGN-PATTERNS#readme"
+}
